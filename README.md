@@ -10,7 +10,7 @@ Animated-calculator-3Dglass is a visually appealing calculator app built using H
 
 ## Getting started
 
-To use the Animated-calculator-3Dglass app, simply open the `index.html` file in your web browser.
+To use the Animated-calculator-3Dglass app, simply open the `calculator.html` & `calculator.css` file in your web browser.
 
 ## Customization
 
